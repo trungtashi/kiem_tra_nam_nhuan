@@ -15,7 +15,7 @@ if(div4){
         leapYear = true
     }
 }
-if(leapYear == true){
+if(leapYear){
     alert(year + ' là năm nhuận')
 }
 else
